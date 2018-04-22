@@ -28,6 +28,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>HTML</li>
 	<li>CSS Bootstrap Framework</li>
 	<li>Responsive</li>
+	<li>Wordpress</li>
 </ul>
 
 <h2>Projects</h2>
