@@ -35,14 +35,14 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: mytwitter
+twitter: https://twitter.com/vasilisdmr
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/Vasilisdm
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -50,7 +50,7 @@ github: mygithub
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: vasilisdmr@gmail.com
 
 
 # do you want a larger site? change the option below
