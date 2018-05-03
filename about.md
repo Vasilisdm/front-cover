@@ -4,8 +4,8 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Passionate about coding and Javascript enthousiast! 
-Keen to meet deadlines by trying to achieve the best result within the given timeframe, with a great eye for details!</p>
+<p>Passionate about coding and Javascript enthousiast!<br>
+Keen to meet deadlines by trying to achieve the best result within the given timeframe</p>
 
 <h2>Skills</h2>
 
