@@ -10,8 +10,8 @@ Keen to meet deadlines by trying to achieve the best result within the given tim
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>PHP</li>
 	<li>Javascript</li>
+	<li>PHP</li>
 	<li>Git</li>
 	<li>MySQL</li>		
 	<li>HTML</li>
