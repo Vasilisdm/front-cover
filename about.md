@@ -5,8 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>Wannabe ASP.Net Developer and technology/programming enthusiast!<br>
-Keen to know each and every detail, since I am a strong believer of Aristotle's quote,<br>
-"The more you know, the more you know you don't know."</p>
+Keen to know each and every detail, since I am a strong believer of Aristotle's quote, "The more you know, the more you know you don't know."</p>
 
 <h2>Skills</h2>
 
