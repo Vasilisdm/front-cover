@@ -4,18 +4,21 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Wannabe ASP.Net Developer and technology/programming enthusiast!<br>
-Keen to know each and every detail, since I am a strong believer of Aristotle's quote, "The more you know, the more you know you don't know."</p>
+<p>As a part of an Agile Software Development team, I have been developing services for a web platform which manages confidential business documents & data provided as SaaS through internet and mobile devices to customers of <a href="https://admincontrol.com/en/">Admincontrol AS</a>.</p>
 
-<h2>Skills</h2>
+<h2>Skills & Methodologies</h2>
 
 <ul class="skill-list">
 	<li>C#</li>
-	<li>ASP.Net - ASP.Net Core</li>
 	<li>T-SQL</li>
 	<li>Javascript</li>		
 	<li>Git</li>
-	<li>SSMS</li>
+	<li>ASP.Net - ASP.Net Core</li>
+	<li>SQL Server Management Studio</li>
+	<li>Test Driven Development</li>
+	<li>Domain Driven Design</li>
+	<li>Agile Software Development</li>
+	<li>Scrum</li>
 </ul>
 
 <h2>Projects</h2>
