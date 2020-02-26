@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>As a part of an Agile Software Development team, I have been developing services for a web platform which manages confidential business documents & data provided as SaaS through internet and mobile devices to customers of <a href="https://admincontrol.com/en/">Admincontrol AS</a>.</p>
+<p>blah.</p>
 
 <h2>Skills & Methodologies</h2>
 
